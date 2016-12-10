@@ -18,3 +18,10 @@ Radar was attached behind tractor at 35 degrees to calculate relationship betwee
 - 15 mph = 463.337017544
 
 ![alt text](assets/frequency.png "Frequency")
+
+### Calculating Speed
+Derive image below to calculate speed.
+
+![alt text](assets/doppler_frequency.png )
+
+Refer to [Ground Speed Study](https://shareok.org/bitstream/handle/11244/7975/Vishwanathan_okstate_0664M_1511.pdf?sequence=1) for more info.
